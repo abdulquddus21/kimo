@@ -154,6 +154,9 @@ textarea {
   .chat-item { padding: 15px; }
   .hero h1 { font-size: 22px; }
   .resizer { display: none; }
+  .input-box{
+    margin-bottom: 30px;
+  }
 }
 
 @keyframes fadeIn { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: translateY(0); } }
